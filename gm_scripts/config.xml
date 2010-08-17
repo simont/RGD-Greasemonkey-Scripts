@@ -3,6 +3,6 @@
 		<Include>http://rgd.mcw.edu/objectSearch/*</Include>
 	</Script>
 	<Script filename="rgd-gene-ratmine.user.js" name="RGD-GENE-RatMine" namespace="http://github.com/simont/RGD-Greasemonkey-Scripts" description="Adds ratmine code to RGD Gene Reports" enabled="true" basedir="rgd-gene-ratmine">
-		<Include>http://rgd.mcw.edu/tools/genes/*</Include>
+		<Include>http://rgddev.mcw.edu/tools/genes/*</Include>
 	</Script>
 </UserScriptConfig>
