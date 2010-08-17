@@ -1,0 +1,5 @@
+<UserScriptConfig>
+	<Script filename="rgd-qtl-ratmine.user.js" name="RGD-QTL-RatMine" namespace="http://github.com/simont/RGD-Greasemonkey-Scripts" description="Adds RatMine links to RGD QTL page" enabled="true" basedir="rgd-qtl-ratmine">
+		<Include>http://rgd.mcw.edu/objectSearch/*</Include>
+	</Script>
+</UserScriptConfig>
