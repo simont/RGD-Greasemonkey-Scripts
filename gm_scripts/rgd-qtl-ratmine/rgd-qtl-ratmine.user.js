@@ -12,8 +12,8 @@ img.src = 'http://ratmine.mcw.edu/ratmine/images/tmpl_arrow.png';
 // document.body.appendChild(img);
 
 
-var relatedBlock, newElement;
-relatedBlock = document.getElementById('Related');
+var ratmine, newElement;
+ratmine = document.getElementById('ratmine_genome');
 if (relatedBlock) {
     newElement = document.createElement('p');
 	newElement.innerHTML = 'Ratmine <img src="http://ratmine.mcw.edu/ratmine/images/tmpl_arrow.png"> RGD'
